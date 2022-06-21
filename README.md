@@ -1,3 +1,3 @@
 # Odin-Recipes
 
-A project assingment from the odin project  
+ An assignment from the odin project https://www.theodinproject.com/lessons/foundations-recipes 
